@@ -1,0 +1,25 @@
+const IMAGE_DIR = '../../res/images/'
+
+export const appImages = {
+    logo: require(IMAGE_DIR + 'logo.png'),
+    Burgers: require(IMAGE_DIR + 'Burgers.png'),
+    singleBurger: require(IMAGE_DIR + 'singleBurger.png'),
+    fries: require(IMAGE_DIR + 'fries.png'),
+    mac: require(IMAGE_DIR + 'mac.png'),
+    star: require(IMAGE_DIR + 'star.png'),
+    kfc: require(IMAGE_DIR + 'kfc.png'),
+    friday: require(IMAGE_DIR + 'friday.png'),
+    nandos: require(IMAGE_DIR + 'nandos.png'),
+    leon: require(IMAGE_DIR + 'leon.png'),
+    waga: require(IMAGE_DIR + 'waga.png'),
+    domino: require(IMAGE_DIR + 'domino.png'),
+    burger: require(IMAGE_DIR + 'burger.png'),
+    steak: require(IMAGE_DIR + 'steak.png'),
+    pizza: require(IMAGE_DIR + 'pizza.png'),
+    carrot: require(IMAGE_DIR + 'carrot.png'),
+    macred: require(IMAGE_DIR + 'macred.png'),
+    nando2: require(IMAGE_DIR + 'nandos2.png'),
+    burgerKing: require(IMAGE_DIR + 'burgerKing.png'),
+    kfcred: require(IMAGE_DIR + 'kfcred.png'),
+    foodIcon: require(IMAGE_DIR + 'foodIcon.png'),
+}
